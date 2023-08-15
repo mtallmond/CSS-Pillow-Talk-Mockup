@@ -119,3 +119,10 @@ li {
 /*********************************
 * Footer
 *********************************/              
+
+
+header div:last-child {
+    display: flex;
+    align-items:center;
+    justify-content:end;
+}
